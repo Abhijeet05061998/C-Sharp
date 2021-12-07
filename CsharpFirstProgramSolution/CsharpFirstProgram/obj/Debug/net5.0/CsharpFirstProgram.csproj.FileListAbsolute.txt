@@ -1,0 +1,16 @@
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\CsharpFirstProgram.exe
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\CsharpFirstProgram.deps.json
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\CsharpFirstProgram.runtimeconfig.json
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\CsharpFirstProgram.runtimeconfig.dev.json
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\CsharpFirstProgram.dll
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\ref\CsharpFirstProgram.dll
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\bin\Debug\net5.0\CsharpFirstProgram.pdb
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.csproj.AssemblyReference.cache
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.AssemblyInfoInputs.cache
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.AssemblyInfo.cs
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.csproj.CoreCompileInputs.cache
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.dll
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\ref\CsharpFirstProgram.dll
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.pdb
+C:\.NET\CsharpFirstProgramSolution\CsharpFirstProgram\obj\Debug\net5.0\CsharpFirstProgram.genruntimeconfig.cache
