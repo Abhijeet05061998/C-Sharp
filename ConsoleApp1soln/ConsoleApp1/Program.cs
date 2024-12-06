@@ -1,17 +1,14 @@
-﻿using System;
-using System.IO;
+//2d Array:-
 
-namespace ConsoleApp1
+int[,] arr = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+
+for (int i = 0; i < 3; i++)
 {
-    class Program
+    int sum = 0;
+    for (int j = 0; j < 3; j++)
     {
-       static void Main(string[] args)
-        {
-            int i = 10;
-            Console.WriteLine("Type of i is {0)", i.GetType());
-          
-
-
-        }
+        sum += arr[i,j];
     }
+    Console.WriteLine(sum);
 }
+Console.ReadKey();
